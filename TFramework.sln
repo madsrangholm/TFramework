@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFramework.Service.Historic
 		{3C50EFC3-8F9C-4504-8076-8B567266B767} = {3C50EFC3-8F9C-4504-8076-8B567266B767}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFramework.Test", "TFramework.Test\TFramework.Test.csproj", "{0CB50B59-6F6B-4012-B1D3-E1ACF41D8C61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +44,10 @@ Global
 		{9AA2646E-47A1-4A95-AD00-DFBF7391CB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AA2646E-47A1-4A95-AD00-DFBF7391CB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AA2646E-47A1-4A95-AD00-DFBF7391CB33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CB50B59-6F6B-4012-B1D3-E1ACF41D8C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB50B59-6F6B-4012-B1D3-E1ACF41D8C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB50B59-6F6B-4012-B1D3-E1ACF41D8C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB50B59-6F6B-4012-B1D3-E1ACF41D8C61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
