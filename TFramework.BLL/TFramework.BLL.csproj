@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Datatypes\Currency.cs" />
     <Compile Include="Datatypes\DateRange.cs" />
     <Compile Include="Datatypes\Ticks\CurrencyExchangeTick.cs" />
     <Compile Include="Datatypes\Ticks\TickBase.cs" />
